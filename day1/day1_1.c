@@ -7,6 +7,7 @@ int main(void){
     printf("My\tfriend\n");
     printf("Goot\bd\tchance\n");
     printf("Cow\rW\a\n");
+    printf("Many Escape Sequences");
     
     return 0;
 }
